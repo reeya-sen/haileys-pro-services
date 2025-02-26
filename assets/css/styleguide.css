@@ -1,0 +1,7 @@
+:root {
+  --white-main: rgba(255, 255, 255, 1);
+  --black-main: rgba(24, 33, 46, 1);
+  --yellow-main: rgba(250, 215, 69, 1);
+  --light-blue: rgba(236, 243, 254, 1);
+  --grey-line: rgba(224, 224, 224, 1);
+}

@@ -1,0 +1,1673 @@
+.roofing-LCP {
+    background-color: #ffffff;
+  
+  }
+  p.p {
+    display: none;
+}
+  .roofing-LCP .frame {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      background-color: #ffffff;
+      right: 0;
+      bottom: 0;
+  }
+  .roofing-LCP .mask-group {
+      /* position: absolute; */
+      width: 100%;
+      height: 100%;
+      /* top: 0; */
+      /* left: 0; */
+      object-fit: cover;
+      object-position: top;
+  }
+  
+  .roofing-LCP .group {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      background-image: url(../images/new-bg-img.png);
+      background-size: 100% 100%;
+      right: 0;
+      bottom: 0;
+  }
+  
+  .roofing-LCP .img {
+      /* position: absolute;
+      width: 416px;
+      height: auto;
+      bottom: 0;
+      right: 0; */
+      position: absolute;
+      width: 416px;
+      height: auto;
+      bottom: -6%;
+      right: 8%;
+  }
+  /*
+  .roofing-LCP .div {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      background-image: url(../images/banner.png);
+      background-size: cover;
+      background-position: top;
+      background-repeat: no-repeat;
+  }*/
+  .frame-4.brn-bth .rectangle-2.lef-rnt {
+      left: 1px;
+      top: 0;
+      bottom: 0;
+  }
+  .roofing-LCP .frame-2 {
+      display: flex;
+      flex-direction: column;
+      max-width: 819px;
+      align-items: flex-start;
+      gap: 52px;
+      /* position: absolute; */
+      /* top: 222px; */
+      /* left: 124px; */
+      width: 51%;
+      padding-top: 83px;
+      /* margin-left: 116px; */
+      position: relative;
+      z-index: 1;
+  }
+  .roofing-LCP .frame-3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 36px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .roofing-LCP .the-roof-that {
+      position: relative;
+      max-width: 982px;
+      margin-top: -1.00px;
+      margin-right: -182.00px;
+      font-family: "Scheherazade New", Helvetica;
+      font-weight: 600;
+      color: #ffffff;
+      font-size: 94px;
+      letter-spacing: -3.76px;
+      line-height: 84.6px;
+      width: 100%;
+  }
+  
+  .roofing-LCP .text-wrapper {
+    position: relative;
+    align-self: stretch;
+    font-family: "Circe-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: 42px;
+  }
+  
+  .roofing-LCP .frame-4 {
+    display: inline-flex;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .roofing-LCP .design-it-your-way-wrapper {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 32px 16px 32px 32px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #2d68f6;
+    border-radius: 8px 0px 0px 8px;
+  }
+  
+  .roofing-LCP .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    text-shadow: 0px 2px 0px #00000000;
+    -webkit-background-clip: text !important;
+    font-family: "Circe-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: transparent;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 1.00px;
+    line-height: 20px;
+    white-space: nowrap;
+    background: linear-gradient(90deg, #9DBAFF 0%, #FFF 25%, #FFF 50%, #FFF 75%, #9DBAFF 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    /* filter: drop-shadow(0px 2px 1px #000); */
+    filter: drop-shadow(0px 3px 2px #00000096);
+  }
+  
+  .roofing-LCP .rectangle-2 {
+      position: relative;
+      width: 43.78px;
+      height: 84px;
+      display: block;
+      left: -1px;
+  }
+  .roofing-LCP .logo {
+      /* position: absolute; */
+      max-width: 315px;
+      height: auto;
+      /* padding-top: 56px; */
+      /* margin-left: 116px; */
+      width: 100%;
+  }
+  
+  .roofing-LCP .vector-wrapper {
+    position: absolute;
+    width: 56px;
+    height: 92px;
+    top: 7px;
+    left: 0;
+    background-color: #2d68f6;
+  }
+  
+  .roofing-LCP .vector {
+    position: absolute;
+    width: 42px;
+    height: 68px;
+    top: 8px;
+    left: 7px;
+  }
+  
+  .roofing-LCP .overlap-group {
+    position: absolute;
+    width: 248px;
+    height: 89px;
+    top: -4px;
+    left: 68px;
+  }
+  
+  .roofing-LCP .genesis {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Scheherazade New", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 58.9px;
+    letter-spacing: 4.13px;
+    line-height: 70.7px;
+    white-space: nowrap;
+  }
+  
+  .roofing-LCP .construction {
+    position: absolute;
+    top: 66px;
+    left: 9px;
+    font-family: "Circe-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18.8px;
+    letter-spacing: 3.02px;
+    line-height: 22.6px;
+    white-space: nowrap;
+  }
+  
+  .roofing-LCP .vector-2 {
+      position: absolute;
+      max-width: 751px;
+      height: 1238px;
+      top: 20px;
+      right: 2%;
+      mix-blend-mode: overlay;
+      width: 45%;
+  }
+  .roofing-LCP .frame-5 {
+      display: flex;
+      flex-direction: column;
+      width: 39%;
+      align-items: flex-start;
+      gap: 52px;
+      /* position: absolute; */
+      /* top: 1089px; */
+      /* left: 1113px; */
+  }
+  
+  .roofing-LCP .frame-6 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .roofing-LCP .your-perfect-roof {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Scheherazade New", Helvetica;
+    font-weight: 600;
+    color: #191919;
+    font-size: 72px;
+    letter-spacing: -2.16px;
+    line-height: 64.8px;
+  }
+  
+  .roofing-LCP .p {
+      position: relative;
+      max-width: 588px;
+      font-family: "Circe-Bold", Helvetica;
+      font-weight: 700;
+      color: #191919;
+      font-size: 32px;
+      letter-spacing: 0;
+      line-height: 41.6px;
+      width: 100%;
+  }
+  
+  .roofing-LCP .text-wrapper-3 {
+      position: relative;
+      max-width: 588px;
+      font-family: "Circe-Regular", Helvetica;
+      font-weight: 400;
+      color: #191919;
+      font-size: 24px;
+      letter-spacing: 0;
+      line-height: 36px;
+      width: 100%;
+  }
+  
+  .roofing-LCP .frame-7 {
+      display: flex;
+      flex-direction: column;
+      max-width: 744px;
+      align-items: center;
+      gap: 52px;
+      /* position: absolute; */
+      /* top: 2072px; */
+      /* left: 588px; */
+      width: 100%;
+      margin: auto;
+      padding: 300px 0;
+  }
+  
+  .roofing-LCP .frame-8 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .roofing-LCP .built-to-last-in-any {
+    position: relative;
+    max-width: 600px;
+    width:100%;
+    margin-top: -1.00px;
+    font-family: "Scheherazade New", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 72px;
+    text-align: center;
+    letter-spacing: -2.16px;
+    line-height: 64.8px;
+  }
+  
+  .roofing-LCP .text-wrapper-4 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Circe-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 42px;
+  }
+  
+  .roofing-LCP .test-my-roof-s-wrapper {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 31px 16px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #2d68f6;
+  }
+  
+  .roofing-LCP .overlap-group-wrapper {
+      /* position: absolute; */
+      width: 54%;
+      /* height: 751px; */
+      /* top: 972px; */
+      /* left: 124px; */
+      background-color: #ffffff;
+      box-shadow: 0px 32px 124px #0000001a;
+  }
+  .roofing-LCP .overlap-2 {
+    position: relative;
+  
+  }
+  
+  .roofing-LCP .key-features-wrapper {
+      /* position: absolute; */
+      width: 50%;
+      height: auto;
+      top: 0;
+      left: 0;
+      background-image: url(../images/image@2x.png);
+      background-size: cover;
+      background-position: 50% 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  }
+  
+  .roofing-LCP .key-features {
+    /* position: absolute; */
+    /* top: 136px; */
+    /* left: 71px; */
+    font-family: "Scheherazade New", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 47px;
+    text-align: center;
+    letter-spacing: -1.92px;
+    line-height: 50.6px;
+    padding: 39px;
+    width: 100%;
+}
+  
+  .roofing-LCP .overlap-3 {
+      /* position: absolute; */
+      width: 100%;
+      /* height: 751px; */
+      /* top: 0; */
+      /* left: 0; */
+  }
+  .roofing-LCP .frame-9 {
+      display: flex;
+      flex-direction: column;
+      width: 50%;
+      align-items: center;
+      justify-content: center;
+      gap: 32px;
+      padding: 48px 84px;
+      /* position: absolute; */
+      /* top: 0; */
+      /* left: 454px; */
+      border-left: 1px solid #EBEBEB;
+      border-bottom: 1px solid #EBEBEB;
+  }
+  
+  .roofing-LCP .img-2 {
+    position: relative;
+    width: 84px;
+    height: 84px;
+  }
+  
+  .roofing-LCP .frame-10 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .roofing-LCP .text-wrapper-5 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Scheherazade New", Helvetica;
+    font-weight: 700;
+    color: #191919;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: -0.96px;
+    line-height: 28.8px;
+  }
+  
+  .roofing-LCP .text-wrapper-6 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Circe-Regular", Helvetica;
+    font-weight: 400;
+    color: #191919;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 36px;
+  }
+  
+  .roofing-LCP .frame-11 {
+      display: flex;
+      flex-direction: column;
+      width: 50%;
+      align-items: center;
+      justify-content: center;
+      gap: 32px;
+      padding: 48px 84px;
+      /* position: absolute; */
+      /* top: 390px; */
+      /* left: 0; */
+  }
+  .roofing-LCP .frame-12 {
+      display: flex;
+      flex-direction: column;
+      width: 50%;
+      align-items: center;
+      justify-content: center;
+      gap: 32px;
+      padding: 48px 84px;
+      /* position: absolute; */
+      /* top: 390px; */
+      /* left: 454px; */
+      border-left: 1px solid #EBEBEB;
+  }
+  .roofing-LCP .line {
+    width: 1px;
+    height: 751px;
+    top: 0;
+    left: 454px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .roofing-LCP .line-2 {
+    width: 908px;
+    height: 1px;
+    top: 390px;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .roofing-LCP .frame-13 {
+      display: flex;
+      flex-direction: column;
+      max-width: 1402px;
+      align-items: center;
+      gap: 84px;
+      /* position: absolute; */
+      /* top: 2760px; */
+      /* left: 259px; */
+      width: 100%;
+      margin: auto;
+  }
+  .roofing-LCP .frame-14 {
+      display: flex;
+      flex-direction: column;
+      max-width: 898px;
+      align-items: center;
+      gap: 32px;
+      position: relative;
+      flex: 0 0 auto;
+      width: 100%;
+  }
+  
+  .roofing-LCP .expert-roofing {
+      position: relative;
+      max-width: 840px;
+      margin-top: -1.00px;
+      font-family: "Scheherazade New", Helvetica;
+      font-weight: 600;
+      color: #191919;
+      font-size: 72px;
+      text-align: center;
+      letter-spacing: -2.16px;
+      line-height: 64.8px;
+      width: 100%;
+  }
+  
+  .roofing-LCP .text-wrapper-7 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Circe-Regular", Helvetica;
+    font-weight: 400;
+    color: #191919;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 42px;
+  }
+  
+  .roofing-LCP .frame-15 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .roofing-LCP .text-wrapper-8 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: "Scheherazade New", Helvetica;
+    font-weight: 700;
+    color: #191919;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: -1.08px;
+    line-height: 32.4px;
+  }
+  
+  .roofing-LCP .frame-16 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 12px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .roofing-LCP .frame-17 {
+      display: flex;
+      max-width: 243px;
+      align-items: center;
+      justify-content: center;
+      gap: 16px;
+      padding: 12px 24px;
+      position: relative;
+      background-color: #2d68f6;
+      border-radius: 32px;
+      width: 100%;
+  }
+  
+  .roofing-LCP .text-wrapper-9 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Circe-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 36px;
+    white-space: nowrap;
+  }
+  
+  .roofing-LCP .img-3 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .roofing-LCP .frame-18 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    padding: 12px 24px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #2d68f6;
+    border-radius: 32px;
+  }
+  
+  .roofing-LCP .frame-19 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 12px 12px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .roofing-LCP .frame-20 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 12px 24px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #f3f6fe;
+    border-radius: 32px;
+  }
+  
+  .roofing-LCP .text-wrapper-10 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.00px;
+    font-family: "Circe-Regular", Helvetica;
+    font-weight: 400;
+    color: #191919;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 36px;
+    white-space: nowrap;
+  }
+  
+  .roofing-LCP .mask-group-2 {
+      /* position: absolute; */
+      max-width: 1504px;
+      height: auto;
+      /* top: 0; */
+      /* left: 210px; */
+      display: block;
+      margin: auto;
+      width:100%;
+  }
+  
+  .roofing-LCP .frame-21 {
+      display: flex;
+      max-width: 1446px;
+      align-items: center;
+      /* position: absolute; */
+      /* top: 3656px; */
+      /* left: 265px; */
+      margin: -214px auto 0 auto;
+  }
+  
+  .roofing-LCP .rectangle-3 {
+      position: relative;
+      width: 73.21px;
+      height: 153px;
+      display: block;
+  }
+  .roofing-LCP .frame-22 {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      padding: 31px 0px 32px 8px;
+      position: relative;
+      flex: 1;
+      flex-grow: 1;
+      background-color: #2d68f6;
+  }
+  
+  .roofing-LCP .frame-23 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+    background-color: #ffffff;
+    border-radius: 8px;
+  }
+  
+  .roofing-LCP .male-user {
+      position: relative;
+      width: 24px;
+      height: 24px;
+      margin-left: -15px;
+  }
+  .roofing-LCP .frame-23 input {
+      padding: 29px 0px 29px 0px;
+      position: relative;
+      background-color: #ffffff;
+      border-radius: 8px;
+      width: 100%;
+      border: 0;
+      outline: 0;
+      box-shadow: none;
+      font-family: "Circe-Bold", Helvetica;
+      font-weight: 700;
+      color: #8F8F8F;
+      font-size: 18px;
+      text-align: left;
+      letter-spacing: 0;
+      line-height: 18px;
+      white-space: nowrap;
+  }
+  .roofing-LCP .frame-23 input::placeholder{
+     color: #8F8F8F;
+  
+  }
+  .roofing-LCP .frame-23 input#email, .roofing-LCP .frame-23 input[type="email"], .roofing-LCP .frame-23 input#phone {
+      padding: 29px 32px;
+  }
+  .roofing-LCP .enter-your-name {
+      margin-right: -15.83px;
+      position: relative;
+      font-family: "Circe-Bold", Helvetica;
+      font-weight: 700;
+      color: #8e8e8e;
+      font-size: 18px;
+      text-align: center;
+      letter-spacing: 0;
+      line-height: 18px;
+      white-space: nowrap;
+      width: 73%;
+  }
+  
+  .roofing-LCP .text-wrapper-11 {
+    margin-top: -1.00px;
+    position: relative;
+    width: fit-content;
+    font-family: "Circe-Bold", Helvetica;
+    font-weight: 700;
+    color: #8e8e8e;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 18px;
+    white-space: nowrap;
+  }
+  
+  .roofing-LCP .start-your-custom-wrapper {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 32px 16px 32px 32px;
+    position: relative;
+    flex: 0 0 auto;
+    background-color: #000000;
+    border-radius: 8px 0px 0px 8px;
+  }
+  
+  .roofing-LCP .frame-24 {
+      display: flex;
+      width: 100%;
+      align-items: center;
+      justify-content: space-between;
+      padding: 33px 124px;
+      /* position: absolute; */
+      /* top: 3840px; */
+      /* left: 0; */
+      margin-top: 15px;
+  }
+  
+  .roofing-LCP .text-wrapper-12 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.28px;
+    opacity: 0.5;
+    font-family: "Circe-Regular", Helvetica;
+    font-weight: 400;
+    color: #191919;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 30px;
+    white-space: nowrap;
+  }
+  
+  .roofing-LCP .frame-25 {
+    position: relative;
+    width: 146px;
+    height: 18px;
+  }
+  
+  .roofing-LCP .element {
+    position: absolute;
+    width: 43px;
+    height: 16px;
+    top: 2px;
+    left: 0;
+  }
+  
+  .roofing-LCP .element-2 {
+    position: absolute;
+    width: 51px;
+    height: 16px;
+    top: 2px;
+    left: 47px;
+  }
+  
+  .roofing-LCP .element-3 {
+    position: absolute;
+    width: 42px;
+    height: 16px;
+    top: 2px;
+    left: 104px;
+  }
+  
+  
+  /*************/
+  .fst-sec .container {
+      position: relative;
+      z-index: 1;
+      padding: 60px 5% 250px 5%;
+  }
+  .container {
+      width: 100%;
+      max-width: 1920px;
+      margin: 0 auto;
+      padding: 0 5%;
+  }
+  .fst-sec {
+      position: relative;
+      overflow: hidden;
+      background-image: url(../images/banner.png);
+      background-size: cover;
+      background-position: top;
+      background-repeat: no-repeat;
+  }
+  .shap-btm {
+      height: 20%;
+      width: 100%;
+      background: #ffffff;
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: -1px;
+      clip-path: polygon(100% 0, 0% 100%, 100% 101%);
+      z-index: 1;
+  }
+  .border-one {
+      height: 1px;
+      background: #fff;
+      width: 100%;
+      position: absolute;
+      top: 206px;
+      opacity: 0.2;
+  }
+  
+  .border-tw {
+      height: 1px;
+      background: #fff;
+      width: 100%;
+      position: absolute;
+      bottom: 232px;
+      opacity: 0.2;
+  }
+  .border-thr {
+      height: 100%;
+      background: #fff;
+      width: 1px;
+      position: absolute;
+      top: 0;
+      opacity: 0.2;
+      bottom: 0;
+      left: 3%;
+  }
+  .border-four {
+      height: 100%;
+      background: #fff;
+      width: 1px;
+      position: absolute;
+      top: 0;
+      opacity: 0.2;
+      bottom: 0;
+      right: 74%;
+  }
+  .scnd {
+      margin-top: -180px;
+      position: relative;
+      z-index: 1;
+      padding-bottom: 110px;
+  }
+  .scnd .overlap-3 {
+      display: flex;
+      flex-wrap: wrap;
+  }
+  .row-roof {
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      align-items: flex-end;
+      position: relative;
+      z-index: 1;
+  }
+  .scnd .container {
+      position: relative;
+  }
+  .roofing-LCP .rectangle {
+      position: absolute;
+      max-width: 852px;
+      height: auto;
+      top: 56%;
+      left: 0;
+      width: 100%;
+  }
+  .trd {
+      position: relative;
+      z-index: 1;
+  }
+  .frth {
+      position: relative;
+      padding: 310px 0 30px 0;
+      margin-top: -254px;
+  }
+  .frm {
+      position: relative;
+  }
+  .cop-text {
+      position: relative;
+  }
+  .btn {
+      transition: all .3s;
+  }
+  .btn:hover {
+      transform: translateY(-10px);
+  }
+  .ftr-btn {
+      transition: all .3s;
+  }
+  .ftr-btn:hover {
+      color: #2d68f6;
+      opacity: 1;
+  }
+  .roofing-LCP .logo .brand, .roofing-LCP .logo .brand img {
+      display: block;
+      width: 100%;
+  }
+  .border-fiv {
+      height: 100%;
+      background: #fff;
+      width: 1px;
+      position: absolute;
+      top: 0;
+      opacity: 0.2;
+      bottom: 0;
+      right: 3%;
+  }
+  .border-sx {
+      height: 100%;
+      background: #fff;
+      width: 1px;
+      position: absolute;
+      top: 0;
+      opacity: 0.2;
+      bottom: 0;
+      left: 79%;
+  }
+  
+/* new css start */
+.contact-form .frame-22 {
+    padding: 31px 0px 31px 8px;
+}
+.contact-form .start-your-custom-wrapper input[type="submit"] {
+    border: none;
+}
+.contact-form .btn.start-now-btn img.rectangle-2 {
+    height: 85px !important;
+    width: 45.78px !important;
+}
+
+.footer-logo-icn {
+    position: relative;
+}
+.footer-logo-icn img {
+    transition: ease all 0.4s;
+    filter: grayscale(1);
+    -webkit-filter: grayscale(1);
+    width: 100%;
+    max-width: 119px;
+}
+.footer-logo-icn img.with_hvr {
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+    visibility: hidden;
+}
+.footer-logo-icn:hover {
+    color: #fad745 !important;
+    opacity: 1;
+    transition: all .3s;
+}
+.footer-logo-icn:hover img {
+    filter: none;
+}
+.footer-logo-icn:hover img.with_hvr {
+    opacity: 1;
+    visibility: visible;
+}
+.contact-form .start-now-btn, .contact-form .start-your-custom-wrapper input[type="submit"] {
+    cursor: pointer;
+}
+.frm.contact-form .wpcf7-not-valid-tip {
+    display: none;
+}
+.frm.contact-form  .wpcf7-response-output {
+    position: absolute;
+    bottom: -20%;
+}
+  @media screen and (min-width:2200px){
+      
+      .container {
+      padding: 0 20px;
+  }
+  .fst-sec .container{
+      padding-left:20px;
+      padding-right:20px;
+  }
+  .border-thr {
+      left: -2%;
+  }
+  .roofing-LCP .vector-2 {
+      right: 13%;
+  }
+  }
+  
+  @media screen and (min-width: 2881px) {
+      .roofing-LCP .vector-2 {
+          right: 28%;
+      }
+  }
+  @media screen and (min-width: 4000px) {
+      .roofing-LCP .vector-2 {
+          right: 33%;
+      }
+  }
+  
+  
+  
+  
+  @media screen and (max-width: 1800px) {
+  .roofing-LCP .the-roof-that {
+      font-size: 84px;
+      line-height: 78.6px;
+  
+  }
+  .roofing-LCP .text-wrapper,
+  .roofing-LCP .text-wrapper-4 {
+      font-size: 26px;
+      line-height: 37px;
+  }
+  .roofing-LCP .your-perfect-roof,
+  .roofing-LCP .built-to-last-in-any {
+      font-size: 66px;
+      line-height: 61.8px;
+  }
+  .roofing-LCP .p {
+      font-size: 31px;
+      line-height: 40.6px;
+  }
+  .roofing-LCP .frame-9,
+  .roofing-LCP .frame-11,
+  .roofing-LCP .frame-12 {
+      padding: 48px 65px;
+  }
+  }
+  
+  
+  @media screen and (max-width: 1599px) {
+  .fst-sec .container {
+      padding: 60px 4% 250px 4%;
+  }
+  .container {
+      padding: 0 4%;
+  }
+  .roofing-LCP .the-roof-that {
+      font-size: 71px;
+      line-height: 65.6px;
+  }
+  .roofing-LCP .text-wrapper, .roofing-LCP .text-wrapper-4 {
+      font-size: 24px;
+      line-height: 31px;
+  }
+  .roofing-LCP .key-features {
+    font-size: 35px;
+    line-height: 42.6px;
+}
+
+  .roofing-LCP .text-wrapper-5 {
+      font-size: 28px;
+      line-height: 27.8px;
+  }
+  .roofing-LCP .text-wrapper-6,
+  .roofing-LCP .text-wrapper-3,
+  .roofing-LCP .text-wrapper-7 {
+      font-size: 22px;
+      line-height: 26px;
+  }
+  .roofing-LCP .frame-9, .roofing-LCP .frame-11, .roofing-LCP .frame-12 {
+      padding: 48px 42px;
+  }
+  .roofing-LCP .your-perfect-roof, .roofing-LCP .built-to-last-in-any,
+  .roofing-LCP .expert-roofing {
+      font-size: 52px;
+      line-height: 51.8px;
+  }
+  .roofing-LCP .p {
+      font-size: 28px;
+      line-height: 35.6px;
+  }
+  .roofing-LCP .img {
+    width: 370px;
+    bottom: -3%;
+    right: 8%;
+  }
+  .roofing-LCP .text-wrapper-8 {
+      font-size: 32px;
+      line-height: 31.4px;
+  }
+  .roofing-LCP .text-wrapper-9,
+  .roofing-LCP .text-wrapper-10 {
+      font-size: 21px;
+      line-height: 32px;
+  }
+  .roofing-LCP .text-wrapper-12 {
+      font-size: 16px;
+  }
+  .roofing-LCP .text-wrapper-2,
+  .roofing-LCP .frame-23 input {
+      font-size: 15px;
+  }
+  .roofing-LCP .frame-23 input#email, .roofing-LCP .frame-23 input#phone {
+      padding: 29px 18px;
+  }
+  .roofing-LCP .start-your-custom-wrapper {
+      padding: 29px 16px 29px 32px;
+  }
+  .roofing-LCP .rectangle-2 {
+      height: 77px;
+      left: -2px;
+  }
+  .roofing-LCP .rectangle-3 {
+      width: 70.21px;
+      height: 140px;
+  }
+  .roofing-LCP .design-it-your-way-wrapper {
+      padding: 29px 16px 29px 32px;
+  }
+  .roofing-LCP .test-my-roof-s-wrapper {
+      padding: 29px 16px;
+  
+  }
+  .frame-4.brn-bth .rectangle-2.lef-rnt {
+      left: 2px;
+  }
+  .contact-form .frame-22 {
+    padding: 30px 0px 31px 8px;
+}
+.contact-form .btn.start-now-btn img.rectangle-2 {
+    height: 79px !important;
+    width: 43.78px !important;
+}
+.contact-form .frame-21 .frame-23 .text-wrapper-11 {
+    margin-top: 0;
+}
+  }
+  
+  @media screen and (max-width: 1299px) {
+  .roofing-LCP .logo {
+      max-width: 216px;
+  }
+  .roofing-LCP .the-roof-that {
+      font-size: 54px;
+      line-height: 53.6px;
+  }
+  .roofing-LCP .text-wrapper, .roofing-LCP .text-wrapper-4 {
+      font-size: 20px;
+      line-height: 28px;
+  }
+  .roofing-LCP .frame-2 {
+      padding-top: 46px;
+  
+  }
+  .border-one {
+      top: 156px;
+  
+  }
+  .roofing-LCP .frame-9, .roofing-LCP .frame-11, .roofing-LCP .frame-12 {
+      padding: 35px 28px;
+  }
+  .roofing-LCP .key-features {
+      padding: 35px 25px;
+      font-size: 40px;
+      line-height: 41.6px;
+  }
+  .roofing-LCP .img-2 {
+      width: 71px;
+      height: 63px;
+  }
+  .roofing-LCP .text-wrapper-5 {
+      font-size: 24px;
+      line-height: 25.8px;
+  }
+  .roofing-LCP .text-wrapper-6, .roofing-LCP .text-wrapper-3, .roofing-LCP .text-wrapper-7 {
+      font-size: 18px;
+      line-height: 24px;
+  }
+  .roofing-LCP .your-perfect-roof, .roofing-LCP .built-to-last-in-any, .roofing-LCP .expert-roofing {
+      font-size: 40px;
+      line-height: 47.8px;
+  }
+  .roofing-LCP .p {
+      font-size: 24px;
+      line-height: 30.6px;
+  }
+  .roofing-LCP .frame-6 {
+      gap: 23px;
+  
+  }
+  .fst-sec .container {
+      padding: 60px 4% 208px 4%;
+  }
+  .shap-btm {
+      height: 13%;
+  }
+  .scnd {
+      margin-top: -122px;
+  }
+  .border-tw {
+      bottom: 182px;
+  
+  }
+  .roofing-LCP .frame-5 {
+      padding-top: 83px;
+  }
+  .roofing-LCP .overlap-group-wrapper {
+      top: -50px;
+      position: relative;
+  }
+  .roofing-LCP .frame-7 {
+      padding: 200px 0;
+  }
+  .roofing-LCP .frame-14 {
+      gap: 18px;
+  
+  }
+  .roofing-LCP .text-wrapper-8 {
+      font-size: 25px;
+      line-height: 26.4px;
+  }
+  .roofing-LCP .text-wrapper-9, .roofing-LCP .text-wrapper-10 {
+      font-size: 17px;
+      line-height: 23px;
+  }
+  .roofing-LCP .img-3 {
+      position: relative;
+      width: 19px;
+      height: 19px;
+  }
+  .roofing-LCP .frame-22 {
+      flex-wrap: wrap;
+      flex: none;
+  }
+  .roofing-LCP .frame-22 .frame-23 {
+      width: calc(33.33% - 10px);
+      flex: none;
+      height: 76px;
+  }
+  .start-now-btn {
+      width: 100%;
+      text-align: center;
+  }
+  .roofing-LCP .frame-22 {
+      width: calc(100% - 230px);
+  }
+  .roofing-LCP .frame-21 {
+      width: 100%;
+      align-items: normal;
+  }
+  .roofing-LCP .rectangle-3 {
+      width: 115px;
+      height: 230px;
+  }
+  .roofing-LCP .frame-24 {
+      flex-wrap: wrap;
+  }
+  .roofing-LCP .text-wrapper-12 {
+      width: 100%;
+      margin-bottom:15px;
+      
+  }
+  a.frame-25, a.text-wrapper-12.ftr-btn {
+      width: 33.33%;
+  }
+  .roofing-LCP .img {
+      width: 275px;
+  }
+  .roofing-LCP .frame-21 {
+      margin: -110px auto 0 auto;
+  }
+  .contact-form .frame-22 {
+    padding: 32px 0px 33px 8px;
+    width: 100% !important;
+}
+.contact-form  .start-now-btn {
+    width: fit-content;
+}
+.cop-text .footer-logo-icn {
+    margin: auto;
+}
+  }
+  
+  @media screen and (max-width: 991px) {
+  .roofing-LCP .frame-2 {
+      width: 100%;
+  }
+  .roofing-LCP .the-roof-that {
+      font-size: 50px;
+      line-height: 52.6px;
+  }
+  .roofing-LCP .overlap-group-wrapper {
+      width: 100%;
+      top: -18px;
+  }
+  .roofing-LCP .frame-5 {
+      width: 100%;
+  }
+  .roofing-LCP .rectangle {
+      top: 24%;
+      width: 78%;
+  }
+  .roofing-LCP .img {
+      width: 180px;
+  }
+  .roofing-LCP .frame-7 {
+      padding: 131px 0;
+  }
+  .scnd {
+      padding-bottom: 50px;
+  }
+  .roofing-LCP .start-your-custom-wrapper {
+      padding: 19px 16px 19px 32px;
+  }
+  .roofing-LCP .rectangle-2 {
+      height: 57px;
+      left: -7px;
+  }
+  .roofing-LCP .frame-23 input#email, .roofing-LCP .frame-23 input#phone,
+  .roofing-LCP .frame-23 input {
+      padding: 17px 11px;
+      font-size: 14px;
+  }
+  .roofing-LCP .text-wrapper-2, .roofing-LCP .frame-23 input {
+      font-size: 14px;
+  }
+  .roofing-LCP .frame-22 .frame-23 {
+  
+      height: 57px;
+  }
+  .roofing-LCP .male-user {
+      margin-left: -6px;
+  }
+  .roofing-LCP .frame-23 input#fname {
+      padding-left: 0;
+  }
+  .roofing-LCP .frame-22 {
+      padding: 19px 0px 19px 0px;
+  }
+  .roofing-LCP .rectangle-3 {
+      width: 81px;
+      height: 162px;
+  }
+  .roofing-LCP .frame-22 {
+      width: calc(100% - 162px);
+  }
+  .roofing-LCP .test-my-roof-s-wrapper,
+  .roofing-LCP .design-it-your-way-wrapper {
+      padding: 19px 16px;
+  }
+  .frame-4.brn-bth .rectangle-2.lef-rnt {
+      left: 7px;
+  }
+  .roofing-LCP .frame-24 {
+      padding-left: 0;
+      padding-right: 0;
+  }
+  .contact-form .btn.start-now-btn img.rectangle-2 {
+    height: 59px !important;
+    width: 40px !important;
+}
+.contact-form .frame-22 {
+    padding: 18px 0px 18px 0px;
+}
+  }
+  
+  @media screen and (max-width: 767px) {
+  .roofing-LCP .the-roof-that {
+      font-size: 41px;
+      line-height: 45.6px;
+  }
+  .roofing-LCP .text-wrapper, .roofing-LCP .text-wrapper-4 {
+      font-size: 17px;
+      line-height: 24px;
+  }
+  .roofing-LCP .key-features {
+      font-size: 34px;
+      line-height: 33.6px;
+  }
+  .roofing-LCP .text-wrapper-6, .roofing-LCP .text-wrapper-3, .roofing-LCP .text-wrapper-7 {
+      font-size: 16px;
+      line-height: 22px;
+  }
+  .roofing-LCP .your-perfect-roof, .roofing-LCP .built-to-last-in-any, .roofing-LCP .expert-roofing {
+      font-size: 36px;
+      line-height: 44.8px;
+  }
+  .roofing-LCP .p {
+      font-size: 20px;
+      line-height: 23.6px;
+  }
+  .roofing-LCP .text-wrapper, .roofing-LCP .text-wrapper-4 {
+      font-size: 16px;
+      line-height: 22px;
+  }
+  .roofing-LCP .frame-8 {
+      gap: 17px;
+  }
+  .roofing-LCP .img {
+    width: 160px;
+    bottom: 5%;
+    right: 8%;
+  }
+  .roofing-LCP .text-wrapper-9, .roofing-LCP .text-wrapper-10 {
+      font-size: 16px;
+      line-height: 19px;
+  }
+  .roofing-LCP .frame-22 .frame-23 {
+      width: 100%;
+  }
+  .roofing-LCP .enter-your-name {
+      width: 86%;
+  }
+  .roofing-LCP .text-wrapper-11 {
+      width: 100%;
+  }
+  .roofing-LCP .frame-23 input#email, .roofing-LCP .frame-23 input#phone, .roofing-LCP .frame-23 input {
+      padding: 17px 19px;
+  }
+  /*
+  .roofing-LCP .rectangle-3 {
+      width: 171px;
+      height: 338px;
+  }*/
+  .roofing-LCP .frame-22 {
+      margin-left: auto;
+      margin-right: auto;
+      position:relative;
+      background: transparent;
+  }
+  .roofing-LCP .frame-21 {
+      background: url("../images/bl-shap.png");
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+      position:relative;
+  }
+  .roofing-LCP .rectangle-3 {
+      display:none;
+  }
+  .roofing-LCP .frame-21 {
+      margin: -60px auto 0 auto;
+  }
+  .contact-form .frame-22 {
+    width: calc(100% - 162px) !important;
+}
+.contact-form  .start-now-btn {
+    width: 100%;
+    margin: 0 auto;
+    justify-content: center;
+}
+  }
+  
+  
+  @media screen and (max-width: 575px) {
+  .roofing-LCP .the-roof-that {
+      font-size: 33px;
+      line-height: 39.6px;
+      letter-spacing: -1px;
+  }
+  .roofing-LCP .key-features-wrapper {
+      width: 100%;
+      min-height: 270px;
+  }
+  .roofing-LCP .frame-9, .roofing-LCP .frame-11, .roofing-LCP .frame-12 {
+      width: 100%;border-left: 0;
+  }
+  .roofing-LCP .frame-11 {
+      border-bottom: 1px solid #EBEBEB;
+      border-left: 0;
+  }
+  .roofing-LCP .your-perfect-roof, .roofing-LCP .built-to-last-in-any, .roofing-LCP .expert-roofing {
+      font-size: 27px;
+      line-height: 29.8px;
+  }
+  .roofing-LCP .img {
+      width: 110px;
+      bottom: -5%;
+      right: 0%;
+  }
+  .roofing-LCP .group {
+      background-size: cover;
+      background-position: 15% -10px;
+  }
+  .roofing-LCP .frame-7 {
+      gap: 30px;
+  }
+  .roofing-LCP .frame-18,
+  .roofing-LCP .frame-17{
+      padding: 12px 16px;
+  
+  }
+  .roofing-LCP .frame-22 {
+      width: calc(100% - 88px);
+  }
+  .roofing-LCP .enter-your-name {
+      width: 82%;
+  }
+  .start-now-btn .start-your-custom-wrapper {
+      flex: none;
+      width: calc(100% - 33px);
+  }
+  .start-now-btn a.frame-4.btn {
+      flex: none;
+      width: 100%;
+  }
+  .roofing-LCP .text-wrapper-12 {
+      white-space: normal;
+      font-size: 15px;
+  }
+  .fst-sec .container {
+      padding: 37px 4% 208px 4%;
+  }
+  .contact-form  .start-now-btn {
+    width: 100%;
+}
+.contact-form .frame-22 {
+    width: calc(100% - 88px) !important;
+}
+.contact-form .start-your-custom-wrapper input[type="submit"] {
+    white-space: break-spaces;
+}
+.contact-form .btn.start-now-btn img.rectangle-2 {
+    height: 59px !important;
+    width: 41px !important;
+}
+  }
+  
+
+  @media(max-width:549px){
+    /* .contact-form .btn.start-now-btn img.rectangle-2 {
+        height: 79px !important;
+        width: 41px !important;
+    } */
+    .roofing-LCP .start-your-custom-wrapper {
+        padding: 7px 10px 11px 10px;
+    }
+  }
+
+
+  @media screen and (max-width: 489px) {
+  .start-now-btn a.frame-4.btn p.text-wrapper-2 {
+      word-wrap: break-word;
+      white-space: normal;
+      font-size: 12px;
+  }
+  .start-now-btn a.frame-4.btn img.rectangle-2 {
+      height: 77px;
+  }
+  a.frame-25, a.text-wrapper-12.ftr-btn {
+      width: 47.33%;
+  }
+  .roofing-LCP .frame-25 {
+      margin-left: auto;
+      margin-right: auto;
+  }
+  }
+
+  @media screen and (max-width: 375px){
+    .roofing-LCP .start-your-custom-wrapper {
+        padding: 7px 10px 11px 10px;
+    }
+  }
+  .contact-form .mask-group-2 {
+    margin-bottom: -214px;
+}
+
+@media(max-width:1299px){
+    .contact-form .mask-group-2 {
+        margin-bottom: -110px;
+    }
+}
+
+@media(max-width:767px){
+    .contact-form .mask-group-2 {
+        margin-bottom: -60px;
+    }
+}
+@media screen and (max-width: 1499px) {
+    .roofing-LCP .the-roof-that {
+        font-size: 62px;
+        line-height: 62.6px;
+    }
+    }
+
+
+
+    .modal-queze .modal-header .frame-13 .text-wrapper {
+        font-size: 29px;
+        line-height: 39.4px;
+    }
+    .modal-queze .modal-wrapper.modal-transition {
+    max-width: 637px;
+    padding: 50px 10px;
+    }
+    .hl-app .ghl-form-wrap {
+        margin: 0 auto 60px;
+        padding: 0;
+    }
+    

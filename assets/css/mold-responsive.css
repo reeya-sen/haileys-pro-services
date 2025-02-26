@@ -1,0 +1,214 @@
+@media screen and (max-width:1399px){
+    .text-main {
+        font-size: 24px;
+    }
+    .rg-left h4 {
+        font-size: 32px;
+    }
+    .rg-right p {
+        font-size: 24px;
+    }
+    .red-grp {
+        padding: 30px;
+    }
+    .hom-risk-wrap h2 {
+        font-size: 64px;
+    }
+}
+@media screen and (max-width:1200px) {
+    .mold-left {
+        width: 50%;
+    }
+    .mold-right {
+        width: 48%;
+    }
+    .rg-left h4 {
+        font-size: 26px;
+    }
+    .rg-right p {
+        font-size: 20px;
+    }
+    .hom-risk-wrap h2 {
+        font-size: 48px;
+    }
+}
+@media screen and (max-width:991px) {
+    .overlap-2.mold-banner .lft-nn img.wall-img {
+        margin: 60px auto 0;
+        max-width: 450px;
+    }
+    
+    .overlap-2.mold-banner .lft-nn {
+        padding-left:0;
+    }
+
+    .text-main {
+        font-size: 20px;
+    }
+
+    .mold-left {
+        width: 100%;
+    }
+    .mold-right {
+        width: 100%;
+        margin-top: 60px;
+    }
+    .hom-risk-wrap h2 {
+        font-size: 38px;
+    }
+    .hom-risk-wrap .take-test {
+        font-size: 20px;
+    }
+    .take-the-quiz-now-to-new {
+        font-size: 16px;
+    }
+    .handyman-LCP .frame-27 img {
+        max-height: 70px;
+    }
+    .hom-risk-wrap {
+        background-position: right;
+    }
+    .black-badge ul li {
+        padding: 5px 16px;
+    }
+    .black-badge ul li img {
+        width: 35px;
+    }
+    .black-badge ul li {
+        padding: 14px 16px;
+        font-size: 16px;
+    }
+    .black-badge ul {
+        justify-content: center;
+        gap: 12px;
+    }
+    .black-badge ul li {
+        padding: 14px 16px;
+        font-size: 16px;
+        width: calc(50% - 12px);
+    }
+    .black-badge h3 {
+        font-size: 31px;
+    }
+    .head-sub {
+        font-size: 31px;
+    }
+    .faq-sc .at-title h2 {
+        font-size: 26px;
+    }
+    .faq-sc .at-title {
+        padding: 24px;
+    }
+    .faq-sc .at-tab {
+        padding: 0 24px 24px 24px;
+    }
+}
+
+@media screen and (max-width:768px){
+    .overlap-2.mold-banner .overlap-3 {
+        padding-bottom: 50px;
+    }
+    .mold-only {
+        padding: 50px 0;
+    }
+    .rg-left , .rg-right{
+        width: 100%;
+    }
+    .red-grp {
+        gap: 20px;
+    }
+    .text-main {
+        font-size: 18px;
+    }
+    .black-badge ul li {
+        padding: 14px 16px;
+        font-size: 16px;
+        width: calc(100% - 12px);
+    }
+   
+    .black-badge p {
+        font-size: 20px;
+    }
+    .sb-head {
+        font-size: 22px;
+    }
+    .faq-sc .at-title h2 {
+        font-size: 22px;
+    }
+    .faq-sc .at-title.active {
+        padding-bottom: 14px;
+    }
+    .faq-sc .frame-13 .text-wrapper-6, .faq-sc .frame-13 .text-wrapper {
+     font-size: 24px;
+    }
+}
+
+@media screen and (max-width:575px){
+    .hom-risk-wrap {
+        background-position: 80%;
+        padding: 44px 15px;
+    }
+    .hom-risk-wrap h2 {
+        font-size: 32px;
+    }
+    .hom-risk-wrap .take-test {
+        font-size: 18px;
+        line-height: normal;
+    }
+    .rg-left h4 {
+        font-size: 22px;
+    }
+    .rg-right p {
+        font-size: 16px;
+    }
+    .handyman-LCP .frame-27 {
+        padding: 0px 20px 0px 20px;
+    }
+    .black-badge h3 {
+        font-size: 25px;
+    }
+    .sb-head {
+        font-size: 20px;
+    }
+    .head-sub {
+        font-size: 25px;
+    }
+    .faq-sc .at-title h2 {
+        font-size: 20px;
+        max-width: calc(100% - 60px);
+    }
+    .faq-sc .at-tab p {
+        font-size: 16px;
+    }
+    .faq-sc .at-title:after {
+        right: 20px;
+    }
+    .faq-sc .frame-13 .text-wrapper-6, .faq-sc .frame-13 .text-wrapper {
+       font-size: 20px;
+    }
+}
+
+@media screen and (max-width:480px){
+    .hom-risk-wrap h2 {
+        font-size: 28px;
+    }
+
+    .take-the-quiz-now-to-new {
+        font-size: 14px;
+        text-wrap: wrap;
+    }
+    .handyman-LCP .text-wrapper {
+        font-size: 20px;
+    }
+    .handyman-LCP .text-wrapper-6{
+        font-size: 20px;
+    }
+    .faq-sc .at-title h2 {
+        font-size: 16px;
+        max-width: calc(100% - 40px);
+    }
+    .faq-sc .frame-13 {
+        flex-wrap: wrap;
+    }
+
+}

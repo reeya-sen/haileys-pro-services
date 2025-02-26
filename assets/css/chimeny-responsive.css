@@ -1,0 +1,316 @@
+@media screen and (max-width:1670px){
+    .overlap-2.chimney-banner .overlap-3 .is-that-honey-to-do {
+        font-size: 56px;
+        line-height: normal;
+    }
+    .handyman-LCP .frame-30 {
+        width: 100%;
+    }   
+}
+@media screen and (max-width:1399px){
+    .overlap-2.chimney-banner .overlap-3 .is-that-honey-to-do {
+        font-size: 46px;
+    }
+    .difference-sec .diff-left {
+        width: 49%;
+    }
+    .difference-sec .diff-right {
+        width: 49%;
+    }
+    .card-main {
+        width: calc(33.33% - 12px);
+        padding: 24px;
+    }
+    .difference-sec.customize-sec .diff-right {
+        width: 49%;
+    }
+    .difference-sec.customize-sec .diff-left {
+        width: 49%;
+    }
+    .customize-sec .sch-btn {
+        flex-direction: column;
+        gap: 50px;
+        align-items: start;
+    }
+    .customize-sec .sch-btn p.file-text {
+        padding-left: 0;
+    }
+}
+@media screen and (max-width:1200px) {
+    .overlap-2.chimney-banner .overlap-3 .is-that-honey-to-do {
+        font-size: 33px;
+    }
+    .card-main h3 {
+        font-size: 24px;
+        margin-bottom: 15px;
+    }   
+    .card-main p {
+        font-size: 18px;
+    }
+    .overlap-2.chimney-banner .overlap-3 .text-wrapper-16 {
+        font-size: 24px;
+    }
+    .chimney-banner p.normal-para {
+        font-size: 20px;
+        max-width: 500px;
+    }
+    .overlap-2.chimney-banner .overlap-3 {
+        background-size: cover;
+        background-position: 0%;
+    }   
+    .reguler-cards .small-head {
+        font-size: 28px;
+    }
+    .reguler-cards .btom-para {
+        font-size: 24px;
+    }
+    .need-help .need-icon {
+        max-width: 100px;
+    }
+    .need-help .need-icon svg {
+        width: 100%;
+        height: 100%;
+    }
+    .need-left h2 {
+        font-size: 40px;
+        margin: 20px 0;
+    }
+    .need-left h4 {
+        font-size: 24px;
+    }
+    .need-left p {
+        font-size: 18px;
+    }
+    p.text-wrapper-para {
+        font-size: 26px;
+    }
+}
+@media screen and (max-width:991px) {
+    .overlap-2.chimney-banner .overlap-3 .is-that-honey-to-do{
+        text-align: left;
+    }
+    .chimney-banner .sch-btn {
+        flex-direction: column;
+        align-items: start;
+        gap: 30px;
+    }
+    .overlap-2.chimney-banner .overlap-3 {
+        background-size: cover;
+        background-position: 50%;
+    }
+    .difference-sec .diff-left {
+        order: 2;
+    }
+    .difference-sec .diff-right {
+        order: 1;   
+    }   
+    .chimney-banner p.normal-para {
+        text-align: left;
+        max-width: 480px;
+    }
+    .chimney-banner .frame-30 {
+        align-items: start;
+    }
+    .chimney-banner p.text-wrapper-16 {
+        text-align: left;
+    }
+    .difference-sec .diff {
+        flex-wrap: wrap;
+        gap: 40px;
+    }
+    .difference-sec .diff-left, .difference-sec .diff-right {
+        width: 100%;
+    }
+    .difference-sec.customize-sec .diff-right, .difference-sec.customize-sec .diff-left {
+        width: 100%;
+    }
+    .reguler-cards .sub-cards-rwo {
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+    }
+    .difference-sec .makes-row p {
+        margin-bottom: 14px;
+        font-size: 22px;
+    }
+    .reguler-cards .sub-cards-rwo .card-main {
+        width: calc(50% - 10px);
+    }
+    .need-help .need-row {
+        gap: 40px;
+    }
+    .need-help .need-row .need-left, .need-help .need-row .need-right {
+        width: 100%;
+    }
+    .diff-left .makes-row h3 {
+        font-size: 30px;
+    }
+    .reguler-cards .small-head {
+        font-size: 24px;
+    }
+    .difference-sec {
+        padding: 50px 0;
+    }
+    .reguler-cards {
+        padding-bottom: 50px;
+    }
+    .reguler-cards .btom-para {
+        font-size: 20px;
+    }
+    .handyman-LCP .text-wrapper {
+        font-size: 26px;
+        line-height: 24.4px;
+    }
+    p.text-wrapper-para {
+        font-size: 22px;
+    }
+    .faq-sc .at-title h2 {
+        font-size: 26px;
+    }
+    .faq-sc .at-title {
+        padding: 24px;
+    }
+    .faq-sc .at-tab {
+        padding: 0 24px 24px 24px;
+    }
+    .faq-sc .at-title:after {
+        right: 20px;
+    }
+}
+
+@media screen and (max-width:768px){
+    .overlap-2.chimney-banner .overlap-3 {
+        background-size: cover;
+        background-position: center;
+    }
+    .reguler-cards .sub-cards-rwo .card-main {
+        width: 100%;
+    }
+    .diff-left .makes-row h3 {
+        font-size: 26px;
+        margin-bottom: 30px;
+    }
+    .difference-sec .makes-row p {
+       font-size: 20px;
+    }
+    .reguler-cards .small-head {
+        font-size: 20px;
+    }
+    .handyman-LCP .text-wrapper {
+        font-size: 23px;
+    }
+    .need-help .need-row .need-left {
+        padding: 44px 20px;
+    }
+    .need-left h2 {
+        font-size: 32px;
+    }
+    .overlap-2.chimney-banner .overlap-3 {
+        padding-bottom: 40px;
+    }
+    .faq-sc .at-title h2 {
+        font-size: 22px;
+        max-width: calc(100% - 40px);
+    }
+    .faq-sc .at-title.active {
+        padding-bottom: 14px;
+    }
+}
+
+@media screen and (max-width:575px){
+    .handyman-LCP .text-wrapper {
+        font-size: 20px;
+    }
+
+    .need-help .need-icon {
+        max-width: 80px;
+    }
+    .difference-sec .makes-row p {
+        font-size: 18px;
+    }
+    .customize-sec .sch-btn p.file-text {
+        font-size: 20px;
+    }
+    .handyman-LCP .book-a-professional {
+        text-transform: uppercase;
+        text-wrap: wrap;
+        text-align: center;
+    }
+    .overlap-2.chimney-banner .overlap-3 {
+        padding-bottom: 0px;
+    }
+    .reguler-cards .small-head {
+        font-size: 18px;
+    }
+    .card-main h3 {
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+    .diff-left .makes-row h3 {
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+    .need-help {
+        padding-bottom: 40px;
+    }
+    p.text-wrapper-para {
+        font-size: 20px;
+    }
+    .need-left h4 {
+        font-size: 20px;
+    }
+    .need-left h2 {
+        font-size: 28px;
+    }
+    .icon-div {
+        display: flex;
+        width: 62px;
+        height: 62px;
+        padding: 14px;
+    }
+    .faq-chimeny .frame-13 {
+        flex-wrap: wrap;
+    }
+    .faq-sc .at-title h2 {
+        font-size: 20px;
+        max-width: calc(100% - 60px);
+    }
+    .faq-sc .at-tab p {
+        font-size: 16px;
+    }
+    .faq-sc .at-title:after {
+        right: 20px;
+    }
+    .faq-sc {
+        padding-bottom: 40px;
+    }
+}
+
+@media screen and (max-width:480px){
+    .handyman-LCP .div-wrapper {
+        width: 100%;
+    }
+    .frame-24 .div-wrapper {
+        width: auto;
+    }
+    .handyman-LCP .frame-13 {
+        flex-direction: column;
+    }
+    .handyman-LCP .text-wrapper {
+        font-size: 18px;
+        line-height: 25.4px;
+        text-wrap: wrap;
+        text-align: center;
+    }
+    .card-main {
+        padding: 18px;
+    }
+    p.text-wrapper-para {
+        font-size: 18px;
+    }
+    .faq-sc .at-title h2 {
+        font-size: 16px;
+        max-width: calc(100% - 40px);
+    }
+
+}
